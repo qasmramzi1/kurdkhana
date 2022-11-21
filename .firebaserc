@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "kuedxanasuperadmin",
+    "web": "kuedxanasuperadmin"
+  },
+  "targets": {},
+  "etags": {}
+}

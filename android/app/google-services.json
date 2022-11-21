@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107149338943",
+    "project_id": "kuedxanasuperadmin",
+    "storage_bucket": "kuedxanasuperadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107149338943:android:a25a87ac82d58772d6cb8a",
+        "android_client_info": {
+          "package_name": "com.example.kurdxanaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107149338943-10l6b6h7pha32s3jphvja635io5g2d3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMYpyPxrM4Z84D_RSWwk-1n5kuyrTXKn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107149338943-10l6b6h7pha32s3jphvja635io5g2d3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
